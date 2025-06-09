@@ -1,4 +1,4 @@
-# Crypto Market Cap Retriever
+# how-to-get-market-cap-from-CoinGecko-without-API
 
 A lightweight Python script that fetches cryptocurrency market capitalization data from CoinGecko’s public API. Designed for easy integration, full debugging, and open-source contributions.
 
@@ -20,8 +20,8 @@ A lightweight Python script that fetches cryptocurrency market capitalization da
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/crypto-marketcap-retriever.git
-   cd crypto-marketcap-retriever
+   git clone https://github.com/yourusername/how-to-get-market-cap-from-CoinGecko-without-API.git
+   cd how-to-get-market-cap-from-CoinGecko-without-API
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
